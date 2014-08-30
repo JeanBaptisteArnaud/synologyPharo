@@ -1,6 +1,5 @@
 #/bin/sh
-source config.sh
-cd ${PHAROCROSSROOT}
+. ./config.sh
 
 cd ${PHAROCROSSROOT}/pharo-vm/image
 ./pharo generator.image eval "${CONFIGNAME} new  
@@ -14,11 +13,11 @@ SET(CMAKE_SYSTEM_NAME Linux)
 SET(CMAKE_SYSTEM_VERSION 1)
 set(CMAKE_SYSTEM_PROCESSOR arm)
 
-SET(CMAKE_C_COMPILER ${PHAROCROSSROOT}/i686-pc-linux-gnu/bin/i686-pc-linux-gnu-gcc)
-SET(CMAKE_CXX_COMPILER ${PHAROCROSSROOT}/i686-pc-linux-gnu/bin/i686-pc-linux-gnu-g++)
+SET(CMAKE_C_COMPILER ${PHAROCROSSROOT}/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian/bin/arm-linux-gnueabihf-gcc)
+SET(CMAKE_CXX_COMPILER ${PHAROCROSSROOT}/tools/aarm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian/bin/arm-linux-gnueabihf-g++)
 
 # where is the target environment - we mounted it using sshfs
-SET(CMAKE_FIND_ROOT_PATH ${PHAROCROSSROOT}/i686-pc-linux-gnu/)
+SET(CMAKE_FIND_ROOT_PATH ${PHAROCROSSROOT})
 
 # search for programs in the build host directories
 SET(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)
