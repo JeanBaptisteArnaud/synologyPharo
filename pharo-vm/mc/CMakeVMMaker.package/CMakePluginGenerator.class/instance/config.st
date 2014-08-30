@@ -1,0 +1,3 @@
+accessing
+config
+	^ vmGen config
