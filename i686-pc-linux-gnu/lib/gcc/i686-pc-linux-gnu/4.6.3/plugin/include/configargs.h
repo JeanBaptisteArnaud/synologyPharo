@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/opt/crosstool-ng-1.17.0/.build/src/gcc-4.6.3/configure --build=i686-build_pc-linux-gnu --host=i686-build_pc-linux-gnu --target=i686-pc-linux-gnu --prefix=/usr/local/i686-pc-linux-gnu --with-sysroot=/usr/local/i686-pc-linux-gnu/i686-pc-linux-gnu/sys-root --enable-languages=c,c++ --with-arch=i686 --with-pkgversion='crosstool-NG 1.17.0' --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --enable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/opt/crosstool-ng-1.17.0/.build/i686-pc-linux-gnu/buildtools --with-mpfr=/opt/crosstool-ng-1.17.0/.build/i686-pc-linux-gnu/buildtools --with-mpc=/opt/crosstool-ng-1.17.0/.build/i686-pc-linux-gnu/buildtools --with-ppl=/opt/crosstool-ng-1.17.0/.build/i686-pc-linux-gnu/buildtools --with-cloog=/opt/crosstool-ng-1.17.0/.build/i686-pc-linux-gnu/buildtools --with-libelf=/opt/crosstool-ng-1.17.0/.build/i686-pc-linux-gnu/buildtools --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm -L/opt/crosstool-ng-1.17.0/.build/i686-pc-linux-gnu/buildtools/lib -lpwl' --enable-threads=posix --disable-multilib --with-local-prefix=/usr/local/i686-pc-linux-gnu/i686-pc-linux-gnu/sys-root --enable-c99 --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "generic" }, { "arch", "i686" } };

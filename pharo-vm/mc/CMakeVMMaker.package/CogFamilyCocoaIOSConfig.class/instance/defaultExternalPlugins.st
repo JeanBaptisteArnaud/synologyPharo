@@ -1,0 +1,22 @@
+plugins
+defaultExternalPlugins 
+	^(self versionExternalPlugins),
+		#(
+		UUIDPlugin
+		FloatMathPlugin
+		AsynchFilePlugin
+		Mpeg3Plugin
+		CroquetPlugin
+		JoystickTabletPlugin
+		B3DAcceleratorPlugin
+		JPEGReadWriter2Plugin 
+		JPEGReaderPlugin
+		RePlugin
+		LocalePlugin
+		ObjectiveCPlugin
+		QuicktimePlugin
+		TestOSAPlugin
+		SqueakSSLPlugin
+		SerialPlugin
+		MIDIPlugin
+	)
