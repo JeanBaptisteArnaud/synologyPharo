@@ -1,3 +1,0 @@
-class table
-wordSizeClassIndexPun
-	^self thirtyTwoBitLongsClassIndexPun

@@ -1,3 +1,0 @@
-accessing
-sizeOfCallPrimitiveBytecode: methodHeaderOop
-	^coInterpreter sizeOfCallPrimitiveBytecode: methodHeaderOop

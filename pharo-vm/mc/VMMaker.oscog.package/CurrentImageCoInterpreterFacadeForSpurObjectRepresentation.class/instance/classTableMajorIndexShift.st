@@ -1,3 +1,0 @@
-accessing
-classTableMajorIndexShift
-	^objectMemory classTableMajorIndexShift

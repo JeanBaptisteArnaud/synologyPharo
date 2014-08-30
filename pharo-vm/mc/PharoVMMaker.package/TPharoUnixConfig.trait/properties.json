@@ -1,6 +1,0 @@
-{
-	"category" : "PharoVMMaker-Unix",
-	"classtraitcomposition" : "TPharoConfig classTrait",
-	"commentStamp" : "<historical>",
-	"name" : "TPharoUnixConfig",
-	"traitcomposition" : "TPharoConfig" }

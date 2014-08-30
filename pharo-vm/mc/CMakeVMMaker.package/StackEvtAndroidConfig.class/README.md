@@ -1,1 +1,0 @@
-A class to configure the Event-driven Stack Cog for Android. This configuration does not lead to building an executable; rather it prepares the source tree to be plugged into the jni subdirectory of an Android project.

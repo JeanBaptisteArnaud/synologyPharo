@@ -1,3 +1,0 @@
-accessing
-configurationName
-	^ vmGen configurationName

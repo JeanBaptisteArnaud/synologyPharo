@@ -1,3 +1,0 @@
-accessing
-nilObject
-	^nilObj

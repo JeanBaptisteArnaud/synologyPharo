@@ -1,3 +1,0 @@
-simulation only
-simulatorClass
-	^Spur32BitMMLECoSimulator

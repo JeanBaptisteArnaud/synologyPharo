@@ -1,1 +1,0 @@
-ImageFileHeaderTest provides unit tests for ImageFileHeader and CogImageFileHeader. These tests verify conversion to and from disk file format for various word sizes, platform endianness, and image formats.

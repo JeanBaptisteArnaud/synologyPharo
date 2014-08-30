@@ -1,3 +1,0 @@
-coercing
-asVoidPointer
-	^self

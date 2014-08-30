@@ -1,3 +1,0 @@
-accessing
-isYoungObject: anOop
-	^false

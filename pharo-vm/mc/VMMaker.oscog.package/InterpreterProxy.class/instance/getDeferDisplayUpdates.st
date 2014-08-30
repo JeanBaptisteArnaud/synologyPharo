@@ -1,3 +1,0 @@
-special objects
-getDeferDisplayUpdates
-	^false

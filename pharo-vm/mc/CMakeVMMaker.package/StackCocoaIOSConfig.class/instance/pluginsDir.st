@@ -1,3 +1,0 @@
-accessing
-pluginsDir 
-	^'${srcDir}/plugins'

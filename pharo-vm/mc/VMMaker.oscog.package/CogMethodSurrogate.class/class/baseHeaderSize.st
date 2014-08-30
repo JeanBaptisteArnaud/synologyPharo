@@ -1,3 +1,0 @@
-accessing
-baseHeaderSize
-	^self objectMemoryClass baseHeaderSize

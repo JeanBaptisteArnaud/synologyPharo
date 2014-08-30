@@ -1,3 +1,0 @@
-accessing
-indexablePointersFormat
-	^objectMemory indexablePointersFormat

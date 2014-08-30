@@ -1,3 +1,0 @@
-bundle strings
-ImageIsScrollable
-	^false

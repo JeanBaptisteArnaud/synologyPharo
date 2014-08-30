@@ -1,3 +1,0 @@
-accessing
-oldSpaceSize
-	^segmentManager totalBytesInSegments

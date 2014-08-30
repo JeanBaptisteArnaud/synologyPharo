@@ -1,3 +1,0 @@
-accessing
-primitivePropertyFlags: primIndex
-	^coInterpreter primitivePropertyFlags: primIndex

@@ -1,3 +1,0 @@
-coercion
-asInteger
-	^self

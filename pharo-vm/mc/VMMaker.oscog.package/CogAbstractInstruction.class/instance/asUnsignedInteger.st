@@ -1,4 +1,0 @@
-coercion
-asUnsignedInteger
-	<doNotGenerate>
-	^self

@@ -1,3 +1,0 @@
-accessing
-statSGCDeltaUsecs
-	^statSGCDeltaUsecs

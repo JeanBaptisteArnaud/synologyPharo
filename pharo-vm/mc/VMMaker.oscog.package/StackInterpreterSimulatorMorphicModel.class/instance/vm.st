@@ -1,3 +1,0 @@
-accessing
-vm
-	^vm

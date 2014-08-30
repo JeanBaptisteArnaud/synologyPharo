@@ -1,3 +1,0 @@
-initialize-release
-initializeModuleForPlatform
-	"Platform specific initialization"

@@ -1,3 +1,0 @@
-accessing
-characterTable
-	self shouldNotImplement

@@ -1,3 +1,0 @@
-source generation
-interpreterClass
-	^ StackEvtAndroidInterpreter

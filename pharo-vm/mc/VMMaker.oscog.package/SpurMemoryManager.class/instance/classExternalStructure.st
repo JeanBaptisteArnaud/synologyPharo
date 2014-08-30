@@ -1,3 +1,0 @@
-accessing
-classExternalStructure
-	^self splObj: ClassExternalStructure

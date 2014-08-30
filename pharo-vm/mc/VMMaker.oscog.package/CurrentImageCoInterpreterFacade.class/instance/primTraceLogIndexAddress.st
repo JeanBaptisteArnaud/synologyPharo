@@ -1,3 +1,0 @@
-accessing
-primTraceLogIndexAddress
-	^coInterpreter primTraceLogIndexAddress

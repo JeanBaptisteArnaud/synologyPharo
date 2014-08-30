@@ -1,3 +1,0 @@
-accessing
-primitiveFunctionPointerAddress
-	^self addressForLabel: #primitiveFunctionPointer

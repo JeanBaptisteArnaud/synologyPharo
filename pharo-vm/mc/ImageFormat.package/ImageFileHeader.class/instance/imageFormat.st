@@ -1,4 +1,0 @@
-accessing
-imageFormat
-
-	^ imageFormat

@@ -1,3 +1,0 @@
-*CogVMMakerPharoCompatibility
-isLiteral 
-	^ self isLiteralNode

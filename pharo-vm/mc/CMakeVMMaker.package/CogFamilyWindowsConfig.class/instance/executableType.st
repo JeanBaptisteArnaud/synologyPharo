@@ -1,3 +1,0 @@
-accessing
-executableType
-	^ 'WIN32'

@@ -1,1 +1,0 @@
-This class needs some serioud checking before use.

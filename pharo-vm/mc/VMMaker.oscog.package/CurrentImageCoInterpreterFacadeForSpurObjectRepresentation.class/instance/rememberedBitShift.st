@@ -1,3 +1,0 @@
-accessing
-rememberedBitShift
-	^objectMemory rememberedBitShift

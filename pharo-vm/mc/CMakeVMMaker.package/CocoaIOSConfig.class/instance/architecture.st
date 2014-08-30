@@ -1,3 +1,0 @@
-accessing
-architecture 
-	^'i386'

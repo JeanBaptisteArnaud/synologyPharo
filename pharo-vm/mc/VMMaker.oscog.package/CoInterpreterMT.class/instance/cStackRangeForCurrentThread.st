@@ -1,4 +1,0 @@
-simulation
-cStackRangeForCurrentThread
-	<doNotGenerate>
-	^self cStackRangeForThreadIndex: cogThreadManager ioGetThreadLocalThreadIndex

@@ -1,3 +1,0 @@
-simulation only
-stackPages
-	^stackPages

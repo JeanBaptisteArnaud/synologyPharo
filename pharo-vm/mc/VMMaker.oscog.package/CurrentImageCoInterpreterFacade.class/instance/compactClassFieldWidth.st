@@ -1,3 +1,0 @@
-accessing
-compactClassFieldWidth
-	^objectMemory compactClassFieldWidth

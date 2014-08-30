@@ -1,3 +1,0 @@
-accessing
-jumpLongConditionalByteSize
-	self subclassResponsibility

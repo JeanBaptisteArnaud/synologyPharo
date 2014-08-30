@@ -1,3 +1,0 @@
-*CogVMMakerPharoCompatibility
-withBlanksTrimmed
-	^ self trimBoth

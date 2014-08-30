@@ -1,3 +1,0 @@
-accessing
-canonicalName
-	^ 'libgit2'

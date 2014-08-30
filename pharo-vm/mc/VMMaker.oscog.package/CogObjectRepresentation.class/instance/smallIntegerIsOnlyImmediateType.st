@@ -1,3 +1,0 @@
-testing
-smallIntegerIsOnlyImmediateType
-	self subclassResponsibility

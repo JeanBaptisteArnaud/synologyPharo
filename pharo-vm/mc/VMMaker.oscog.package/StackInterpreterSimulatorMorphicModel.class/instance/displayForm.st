@@ -1,3 +1,0 @@
-accessing
-displayForm
-	^ vm displayForm

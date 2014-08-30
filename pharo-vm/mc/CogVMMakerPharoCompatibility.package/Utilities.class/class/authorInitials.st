@@ -1,3 +1,0 @@
-accessing
-authorInitials
-	^ Author fullName

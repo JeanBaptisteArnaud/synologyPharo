@@ -1,3 +1,0 @@
-private
-codeGeneratorClass
-	^FT2PluginCodeGenerator

@@ -1,3 +1,0 @@
-testing
-isExternal
-	^ internal not

@@ -1,3 +1,0 @@
-accessing
-statFGCDeltaUsecs
-	^statFGCDeltaUsecs

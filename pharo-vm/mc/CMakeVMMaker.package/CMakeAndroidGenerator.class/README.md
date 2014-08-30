@@ -1,1 +1,0 @@
-This class inherits from CMakeGenerator and provides the same generation facilities as its parent, but output is more adjusted to the Android NDK requirements.

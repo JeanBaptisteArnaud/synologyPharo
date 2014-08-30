@@ -1,3 +1,0 @@
-testing
-canDivQuoRem
-	^self subclassResponsibility

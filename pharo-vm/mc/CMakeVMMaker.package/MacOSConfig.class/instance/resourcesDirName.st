@@ -1,3 +1,0 @@
-accessing
-resourcesDirName
-	^ 'macbuild/resources'

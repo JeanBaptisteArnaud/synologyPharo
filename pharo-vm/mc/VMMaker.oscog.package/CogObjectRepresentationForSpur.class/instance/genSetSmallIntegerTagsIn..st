@@ -1,3 +1,0 @@
-compile abstract instructions
-genSetSmallIntegerTagsIn: scratchReg
-	self subclassResponsibility

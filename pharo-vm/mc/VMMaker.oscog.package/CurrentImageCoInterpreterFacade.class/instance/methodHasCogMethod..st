@@ -1,3 +1,0 @@
-testing
-methodHasCogMethod: aCompiledMethod 
-	^false

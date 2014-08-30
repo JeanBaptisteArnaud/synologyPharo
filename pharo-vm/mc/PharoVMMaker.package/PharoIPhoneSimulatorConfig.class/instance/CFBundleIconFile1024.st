@@ -1,3 +1,0 @@
-bundle strings
-CFBundleIconFile1024
-	^self CFBundleIconFile

@@ -1,3 +1,0 @@
-accessing
-numSlotsMask
-	^objectMemory numSlotsMask

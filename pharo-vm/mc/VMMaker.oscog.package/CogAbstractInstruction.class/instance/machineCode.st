@@ -1,3 +1,0 @@
-accessing
-machineCode
-	^machineCode

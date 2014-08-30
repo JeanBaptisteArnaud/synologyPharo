@@ -1,4 +1,0 @@
-accessing
-cogit
-	<doNotGenerate>
-	^cogit

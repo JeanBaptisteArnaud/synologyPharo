@@ -1,3 +1,0 @@
-multi-threading
-generateLowLevelUnlock: vmOwnerLockAddress
-	self subclassResponsibility

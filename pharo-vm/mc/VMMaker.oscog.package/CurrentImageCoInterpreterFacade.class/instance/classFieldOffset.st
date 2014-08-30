@@ -1,3 +1,0 @@
-accessing
-classFieldOffset
-	^objectMemory classFieldOffset

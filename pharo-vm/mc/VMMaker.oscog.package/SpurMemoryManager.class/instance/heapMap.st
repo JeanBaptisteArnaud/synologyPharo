@@ -1,3 +1,0 @@
-debug support
-heapMap
-	^heapMap

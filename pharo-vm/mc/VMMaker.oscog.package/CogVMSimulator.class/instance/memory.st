@@ -1,3 +1,0 @@
-accessing
-memory
-	^objectMemory memory

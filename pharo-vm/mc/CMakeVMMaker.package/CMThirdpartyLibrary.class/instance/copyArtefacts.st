@@ -1,4 +1,0 @@
-generating actions
-copyArtefacts
-
-	self subclassResponsibility

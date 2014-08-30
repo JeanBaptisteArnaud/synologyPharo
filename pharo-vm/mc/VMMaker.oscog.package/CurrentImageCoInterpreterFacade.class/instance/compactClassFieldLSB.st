@@ -1,3 +1,0 @@
-accessing
-compactClassFieldLSB
-	^objectMemory compactClassFieldLSB

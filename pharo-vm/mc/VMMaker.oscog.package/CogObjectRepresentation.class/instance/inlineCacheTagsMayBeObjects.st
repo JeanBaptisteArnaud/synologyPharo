@@ -1,3 +1,0 @@
-in-line cacheing
-inlineCacheTagsMayBeObjects
-	^self subclassResponsibility

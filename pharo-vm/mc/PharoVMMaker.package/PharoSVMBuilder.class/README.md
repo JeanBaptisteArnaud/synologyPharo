@@ -1,1 +1,0 @@
-I serve as a facade to ease building Stack Pharo VM.

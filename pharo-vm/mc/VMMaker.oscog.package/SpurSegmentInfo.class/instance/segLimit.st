@@ -1,3 +1,0 @@
-accessing
-segLimit
-	^segSize + segStart

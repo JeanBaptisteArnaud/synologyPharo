@@ -1,3 +1,0 @@
-plugins
-defaultInternalPlugins
-	self shouldBeImplemented 

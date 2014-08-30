@@ -1,1 +1,0 @@
-This just changes the guard return clause to set the errorCode to 16rFF00.

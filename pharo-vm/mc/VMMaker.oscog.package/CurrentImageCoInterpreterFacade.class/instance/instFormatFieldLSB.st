@@ -1,3 +1,0 @@
-accessing
-instFormatFieldLSB
-	^objectMemory instFormatFieldLSB

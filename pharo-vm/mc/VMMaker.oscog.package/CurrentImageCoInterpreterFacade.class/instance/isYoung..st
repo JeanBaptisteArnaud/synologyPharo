@@ -1,3 +1,0 @@
-accessing
-isYoung: anOop
-	^false

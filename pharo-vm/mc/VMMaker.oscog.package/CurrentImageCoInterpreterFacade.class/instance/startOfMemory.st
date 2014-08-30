@@ -1,3 +1,0 @@
-accessing
-startOfMemory
-	^memory size

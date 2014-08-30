@@ -1,3 +1,0 @@
-accessing
-objectMemoryClass
-	^self subclassResponsibility

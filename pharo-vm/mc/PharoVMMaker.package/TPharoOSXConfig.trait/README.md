@@ -1,1 +1,0 @@
-I'm a trait for OSX CMake configurations.

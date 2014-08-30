@@ -1,4 +1,0 @@
-accessing
-threadManager
-	<doNotGenerate>
-	^cogThreadManager

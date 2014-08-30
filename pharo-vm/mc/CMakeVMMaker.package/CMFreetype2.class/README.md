@@ -1,1 +1,0 @@
-This is a configuration for building freetype2 library

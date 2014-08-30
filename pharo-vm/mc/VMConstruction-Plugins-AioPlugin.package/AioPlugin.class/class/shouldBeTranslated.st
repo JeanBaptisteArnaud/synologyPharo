@@ -1,4 +1,0 @@
-translation
-shouldBeTranslated
-
-	^ false

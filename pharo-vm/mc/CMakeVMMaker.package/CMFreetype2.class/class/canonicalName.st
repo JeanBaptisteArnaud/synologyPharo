@@ -1,3 +1,0 @@
-accessing
-canonicalName
-	^ 'freetype2'

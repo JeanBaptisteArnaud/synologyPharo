@@ -1,4 +1,0 @@
-translation
-opTable
-
-	^ OpTable

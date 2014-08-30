@@ -1,3 +1,0 @@
-stack pages
-stackPage
-	^stackPage

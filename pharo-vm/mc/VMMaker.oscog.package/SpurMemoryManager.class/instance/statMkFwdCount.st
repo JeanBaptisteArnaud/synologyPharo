@@ -1,3 +1,0 @@
-accessing
-statMkFwdCount
-	^0

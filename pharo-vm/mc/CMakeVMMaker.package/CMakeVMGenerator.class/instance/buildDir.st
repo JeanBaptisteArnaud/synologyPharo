@@ -1,3 +1,0 @@
-accessing
-buildDir
-	^ config buildDir

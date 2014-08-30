@@ -1,3 +1,0 @@
-spur bootstrap
-bootstrapping
-	^bootstrapping

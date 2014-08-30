@@ -1,3 +1,0 @@
-thirdparty libs
-thirdpartyDirName
-	^ 'thirdParty'
